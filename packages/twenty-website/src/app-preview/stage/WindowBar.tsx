@@ -40,7 +40,7 @@ const RightSpacer = styled.div`
 export function WindowBar({
   isDragging = false,
   onDragStart,
-  title = 'Twenty',
+  title = 'Dark Alpha Capital',
 }: {
   isDragging?: boolean;
   onDragStart?: (event: React.PointerEvent<HTMLDivElement>) => void;

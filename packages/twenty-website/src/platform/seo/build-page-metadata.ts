@@ -10,7 +10,7 @@ import { WEBSITE_LOCALE_LIST } from '@/platform/i18n/website-locale-list';
 
 import { getSiteUrl } from './get-site-url';
 
-const SITE_NAME = 'Twenty';
+const SITE_NAME = 'Dark Alpha Capital';
 const TWITTER_HANDLE = '@twentycrm';
 const DEFAULT_OG_IMAGE_PATH = '/images/og/default.png';
 
