@@ -471,10 +471,10 @@ msgstr "账户负责人"
 msgid "Action"
 msgstr "动作"
 
-#. js-lingui-id: Kqfsda
+#. js-lingui-id: GXwFxE
 #: src/platform/routing/static-website-routes.ts
-msgid "Activate your Twenty enterprise license after checkout and copy your key into your self-hosted instance."
-msgstr "在结账后激活你的 Twenty 企业许可证，并将密钥复制到你的自托管实例中。"
+msgid "Activate your Dark Alpha Capital enterprise license after checkout and copy your key into your self-hosted instance."
+msgstr ""
 
 #. js-lingui-id: muhZ+X
 #: src/sections/enterprise-activate/EnterpriseActivateClient.tsx
@@ -836,10 +836,10 @@ msgstr ""
 "申请一起构建\n"
 "*CRM 的未来*"
 
-#. js-lingui-id: LJCDxT
+#. js-lingui-id: kdT+Z1
 #: src/platform/routing/static-website-routes.ts
-msgid "Apply to join the Twenty partner ecosystem and grow your practice with the #1 open source CRM."
-msgstr "申请加入 Twenty 合作伙伴生态系统，与全球排名第 1 的开源 CRM 一起发展你的业务。"
+msgid "Apply to join the Dark Alpha Capital partner ecosystem and grow your practice with the CRM."
+msgstr ""
 
 #. js-lingui-id: VDvaN2
 #: src/sections/menu/data/menu.ts
@@ -997,6 +997,11 @@ msgstr ""
 "成为\n"
 "*我们的合作伙伴*"
 
+#. js-lingui-id: 3r9ih/
+#: src/platform/routing/static-website-routes.ts
+msgid "Become a Dark Alpha Capital Partner — Apply"
+msgstr ""
+
 #. js-lingui-id: PKMHNe
 #: src/sections/pricing-salesfarce/salesfarce-data.ts
 msgid "become a genius!"
@@ -1007,11 +1012,6 @@ msgstr "成为天才！"
 #: src/sections/partner-hero/PartnerHero.tsx
 msgid "Become a partner"
 msgstr "成为合作伙伴"
-
-#. js-lingui-id: j+1dcz
-#: src/platform/routing/static-website-routes.ts
-msgid "Become a Twenty Partner — Apply"
-msgstr "成为 Twenty 合作伙伴 — 立即申请"
 
 #. js-lingui-id: 83Wi6G
 #: src/sections/home-stepper/data/stepper.data.ts
@@ -1108,10 +1108,10 @@ msgstr "博茨瓦纳 🇧🇼"
 msgid "Brazil 🇧🇷"
 msgstr "巴西 🇧🇷"
 
-#. js-lingui-id: bmk2dj
+#. js-lingui-id: D1N7sz
 #: src/platform/routing/static-website-routes.ts
-msgid "Browse Twenty's certified partners — the agencies and individuals who migrate, customise, host, and support the open source CRM across regions, languages, and deployment models."
-msgstr "浏览 Twenty 认证合作伙伴——这些代理机构和个人会在不同地区、不同语言和不同部署模式下，为这款开源 CRM 提供迁移、定制、托管与支持。"
+msgid "Browse Dark Alpha Capital's certified partners — the agencies and individuals who migrate, customise, host, and support the CRM across regions, languages, and deployment models."
+msgstr ""
 
 #. js-lingui-id: VX4eI/
 #: src/partner-application/data/partner-country-options.ts
@@ -1363,10 +1363,10 @@ msgstr "云"
 msgid "Cloud Pro is $9/user/month (yearly). Organization is $19/user/month and unlocks SSO and row-level permissions for teams that need finer access control."
 msgstr "Cloud Pro 为每用户每月 9 美元（按年计费）。Organization 为每用户每月 19 美元，并为需要更精细访问控制的团队解锁 SSO 和行级权限。"
 
-#. js-lingui-id: WYgF8M
+#. js-lingui-id: 2DXV2x
 #: src/platform/routing/static-website-routes.ts
-msgid "Cloud Pro starts at $9/user/month with unlimited custom objects. Self-host the open source core for free, or upgrade to Organization for SSO and row-level permissions."
-msgstr "Cloud Pro 起价为每用户每月 9 美元，包含无限自定义对象。你可以免费自托管开源核心，或升级到 Organization 以获得 SSO 和行级权限。"
+msgid "Cloud Pro starts at $9/user/month with unlimited custom objects. Self-host the core for free, or upgrade to Organization for SSO and row-level permissions."
+msgstr ""
 
 #. js-lingui-id: 1YncLF
 #: src/sections/testimonials/testimonials.data.ts
@@ -1914,6 +1914,41 @@ msgstr "每日消息数"
 msgid "Danish"
 msgstr "丹麦语"
 
+#. js-lingui-id: mLuonG
+#: src/platform/routing/static-website-routes.ts
+msgid "Dark Alpha Capital | CRM"
+msgstr ""
+
+#. js-lingui-id: 0bu1q/
+#: src/platform/routing/static-website-routes.ts
+msgid "Dark Alpha Capital Apps — Vetted Apps for the CRM"
+msgstr ""
+
+#. js-lingui-id: kDie5q
+#: src/platform/routing/static-website-routes.ts
+msgid "Dark Alpha Capital CRM Features — Modern CRM Platform"
+msgstr ""
+
+#. js-lingui-id: RZC0uJ
+#: src/platform/routing/static-website-routes.ts
+msgid "Dark Alpha Capital CRM Pricing — Plans from $9 per User per Month"
+msgstr ""
+
+#. js-lingui-id: 8aI6nx
+#: src/platform/routing/static-website-routes.ts
+msgid "Dark Alpha Capital Customers — How Modern Teams Run Their CRM"
+msgstr ""
+
+#. js-lingui-id: hXcsKr
+#: src/platform/routing/static-website-routes.ts
+msgid "Dark Alpha Capital Partners — Certified CRM Implementers"
+msgstr ""
+
+#. js-lingui-id: +oGP0z
+#: src/platform/routing/static-website-routes.ts
+msgid "Dark Alpha Capital Releases — What's New in the CRM"
+msgstr ""
+
 #. js-lingui-id: w6iIMm
 #: src/sections/product-stepper/LayoutVisual/data/layout-data.ts
 #: src/sections/product-feature/DashboardVisual/DashboardVisual.tsx
@@ -2335,10 +2370,10 @@ msgstr "请输入有效的 URL（以 http:// 或 https:// 开头）。"
 msgid "Enterprise *activation*"
 msgstr "企业版*激活*"
 
-#. js-lingui-id: NTskGY
+#. js-lingui-id: IOB4l6
 #: src/platform/routing/static-website-routes.ts
-msgid "Enterprise Activation | Twenty"
-msgstr "企业版激活 | Twenty"
+msgid "Enterprise Activation | Dark Alpha Capital"
+msgstr ""
 
 #. js-lingui-id: 3dQ6zJ
 #: src/sections/pricing-plan-table/plan-table-data.ts
@@ -2380,10 +2415,10 @@ msgstr "欧洲"
 msgid "Even the training material is a feature worth celebrating."
 msgstr "连培训资料都是值得庆祝的功能。"
 
-#. js-lingui-id: sQP1sF
+#. js-lingui-id: BzDucU
 #: src/platform/routing/static-website-routes.ts
-msgid "Every new release of Twenty, the #1 Open Source CRM, with changelogs, demos, and the highlights teams care about most."
-msgstr "Twenty 每一个新版本——排名第一的开源 CRM——都附带更新日志、演示，以及团队最关心的亮点。"
+msgid "Every new release of Dark Alpha Capital, the CRM, with changelogs, demos, and the highlights teams care about most."
+msgstr ""
 
 #. js-lingui-id: rkZTD7
 #: src/sections/product-feature/data/feature-tiles.ts
@@ -2436,9 +2471,9 @@ msgstr "专业能力与经验"
 msgid "Explore customer stories"
 msgstr "查看客户案例"
 
-#. js-lingui-id: qu9kGK
+#. js-lingui-id: MVxjYH
 #: src/platform/routing/static-website-routes.ts
-msgid "Extend Twenty with vetted apps — call recording, enrichment, Slack, Discord, Linear and more. Install any app on your open source CRM workspace in one click."
+msgid "Extend Dark Alpha Capital with vetted apps — call recording, enrichment, Slack, Discord, Linear and more. Install any app on your CRM workspace in one click."
 msgstr ""
 
 #. js-lingui-id: ZToPid
@@ -2581,10 +2616,15 @@ msgstr "可以筛选 webhook 返回的内容，使其仅在发生特定操作（
 msgid "Filtered metrics from any object"
 msgstr "来自任意对象的筛选指标"
 
-#. js-lingui-id: sRUAXp
+#. js-lingui-id: Swq9yY
 #: src/platform/routing/static-website-routes.ts
-msgid "Find a certified Twenty partner to migrate, customise, and operate your open source CRM, or join the ecosystem and grow your practice with us."
-msgstr "寻找经过认证的 Twenty 合作伙伴，为你迁移、定制和运营你的开源 CRM，或者加入生态，与我们一起发展你的业务实践。"
+msgid "Find a certified Dark Alpha Capital partner to migrate, customise, and operate your CRM, or join the ecosystem and grow your practice with us."
+msgstr ""
+
+#. js-lingui-id: 7kI8ks
+#: src/platform/routing/static-website-routes.ts
+msgid "Find a Dark Alpha Capital Partner — CRM Marketplace"
+msgstr ""
 
 #. js-lingui-id: TJ7HQl
 #: src/sections/pricing-engagement-band/PricingEngagementBand.tsx
@@ -2597,11 +2637,6 @@ msgstr "查找合作伙伴"
 #: src/sections/menu/data/menu.ts
 msgid "Find a Twenty partner"
 msgstr "查找 Twenty 合作伙伴"
-
-#. js-lingui-id: S6CEQ9
-#: src/platform/routing/static-website-routes.ts
-msgid "Find a Twenty Partner — Open Source CRM Marketplace"
-msgstr "查找 Twenty 合作伙伴 — 开源 CRM 市场"
 
 #. js-lingui-id: wHyJkT
 #: src/sections/pricing-engagement-band/PricingEngagementBand.tsx
@@ -2937,10 +2972,10 @@ msgstr "海地 🇭🇹"
 msgid "Halftone generator"
 msgstr "半色调生成器"
 
-#. js-lingui-id: DHC85F
+#. js-lingui-id: Bl5du3
 #: src/platform/routing/static-website-routes.ts
-msgid "Halftone Generator | Twenty"
-msgstr "半色调生成器 | Twenty"
+msgid "Halftone Generator | Dark Alpha Capital"
+msgstr ""
 
 #. js-lingui-id: nYmi60
 #: src/sections/product-feature/EmailsVisual/data/threads.ts
@@ -3046,6 +3081,11 @@ msgstr "AC&T Education Migration 和 Flycoder 如何用自托管 Twenty 替换�
 msgid "How Alternative Partners migrated from Salesforce to self-hosted Twenty using agentic AI in the implementation loop: fast migration, durable ownership."
 msgstr "Alternative Partners 如何在实施过程中使用 agentic AI，从 Salesforce 迁移到自托管 Twenty：快速迁移、持久所有权。"
 
+#. js-lingui-id: oGtpIT
+#: src/platform/routing/static-website-routes.ts
+msgid "How Dark Alpha Capital collects, uses, and protects your data — our GDPR- and CCPA-compliant privacy policy."
+msgstr ""
+
 #. js-lingui-id: +MLOVo
 #: src/case-studies/case-study-stories.ts
 msgid "How Elevate Consulting moved off documents and spreadsheets to Twenty as the API-connected CRM at the center of their stack."
@@ -3074,11 +3114,6 @@ msgid ""
 msgstr ""
 "团队如何\n"
 "*基于 Twenty 构建*"
-
-#. js-lingui-id: Z3Cabh
-#: src/platform/routing/static-website-routes.ts
-msgid "How Twenty collects, uses, and protects your data — our GDPR- and CCPA-compliant privacy policy."
-msgstr "Twenty 如何收集、使用并保护你的数据——我们的隐私政策符合 GDPR 和 CCPA 要求。"
 
 #. js-lingui-id: URQPvK
 #: src/case-studies/case-study-stories.ts
@@ -3249,10 +3284,10 @@ msgstr "安装共享 tarball 应用"
 msgid "Integration"
 msgstr "集成"
 
-#. js-lingui-id: OChKCc
+#. js-lingui-id: sXUQo3
 #: src/platform/routing/static-website-routes.ts
-msgid "Interactive halftone generator exported from Twenty."
-msgstr "从 Twenty 导出的交互式半色调生成器。"
+msgid "Interactive halftone generator exported from Dark Alpha Capital."
+msgstr ""
 
 #. js-lingui-id: +83cJG
 #: src/partners-marketplace/PartnerProfileCtas.tsx
@@ -4350,10 +4385,10 @@ msgstr "对你自有技术栈的掌控始终莫名其妙地处于缺货状态。
 msgid "Package"
 msgstr ""
 
-#. js-lingui-id: h/oMMb
+#. js-lingui-id: bp0PN0
 #: src/platform/routing/static-website-routes.ts
-msgid "Packaged CRMs make every company look the same. Twenty is the open source CRM teams shape around their workflow, with a modern UI and a developer-first platform."
-msgstr "套装式 CRM 让每家公司看起来都一样。Twenty 是开源 CRM，团队可以根据自己的工作流来塑造它，配备现代化的 UI 和以开发者为先的平台。"
+msgid "Packaged CRMs make every company look the same. Dark Alpha Capital is the CRM teams shape around their workflow, with a modern UI and a developer-first platform."
+msgstr ""
 
 #. js-lingui-id: +AiiMt
 #: src/sections/pricing-salesfarce/salesfarce-data.ts
@@ -4483,10 +4518,10 @@ msgstr "选择你的模型，构建能够撰写电子邮件或在工作流中丰
 msgid "Pipeline Management"
 msgstr "销售漏斗管理"
 
-#. js-lingui-id: gzkkC3
+#. js-lingui-id: PrUOwL
 #: src/platform/routing/static-website-routes.ts
-msgid "Pipelines, custom objects, AI assistants, and a native API on top of Postgres. Twenty is the open source CRM with the modern UX teams actually want to use."
-msgstr "销售漏斗、自定义对象、AI 助手，以及构建在 Postgres 之上的原生 API。Twenty 是开源 CRM，拥有团队真正愿意使用的现代化 UX。"
+msgid "Pipelines, custom objects, AI assistants, and a native API on top of Postgres. Dark Alpha Capital is the CRM with the modern UX teams actually want to use."
+msgstr ""
 
 #. js-lingui-id: z7gnI9
 #: src/partner-application/partner-application-copy.ts
@@ -4576,10 +4611,10 @@ msgstr "优先级支持"
 msgid "Privacy Policy"
 msgstr "隐私政策"
 
-#. js-lingui-id: DJ3uVe
+#. js-lingui-id: QZQheq
 #: src/platform/routing/static-website-routes.ts
-msgid "Privacy Policy | Twenty"
-msgstr "隐私政策 | Twenty"
+msgid "Privacy Policy | Dark Alpha Capital"
+msgstr ""
 
 #. js-lingui-id: 3fPjUY
 #: src/sections/pricing-plans/plans-data.ts
@@ -4689,10 +4724,10 @@ msgstr "准备好构建*属于你自己的故事了吗？*"
 msgid "Ready to grow *with Twenty?*"
 msgstr "准备好*与 Twenty 一起成长了吗？*"
 
-#. js-lingui-id: zTY2by
+#. js-lingui-id: lDnz+A
 #: src/platform/routing/static-website-routes.ts
-msgid "Real customer stories from teams running their business on Twenty: how they migrated, what they customised, and what changed once their CRM finally fit."
-msgstr "来自在 Twenty 上运行业务团队的真实客户故事：他们如何迁移、如何自定义，以及当他们的 CRM 终于契合需求后发生了什么变化。"
+msgid "Real customer stories from teams running their business on Dark Alpha Capital: how they migrated, what they customised, and what changed once their CRM finally fit."
+msgstr ""
 
 #. js-lingui-id: NIwjHh
 #: src/case-studies/case-study-catalog.ts
@@ -5613,10 +5648,10 @@ msgstr "条款与条件"
 msgid "Terms of Service"
 msgstr "服务条款"
 
-#. js-lingui-id: BEX1RA
+#. js-lingui-id: YhWoX5
 #: src/platform/routing/static-website-routes.ts
-msgid "Terms of Service | Twenty"
-msgstr "服务条款 | Twenty"
+msgid "Terms of Service | Dark Alpha Capital"
+msgstr ""
 
 #. js-lingui-id: VUZDlr
 #: src/sections/testimonials/TestimonialsCarousel.tsx
@@ -5833,10 +5868,10 @@ msgstr "现状"
 msgid "The story behind Twenty"
 msgstr ""
 
-#. js-lingui-id: axo4rg
+#. js-lingui-id: D8t5VE
 #: src/platform/routing/static-website-routes.ts
-msgid "The terms governing your use of Twenty and its open source CRM services."
-msgstr "规范你使用 Twenty 及其开源 CRM 服务的条款。"
+msgid "The terms governing your use of Dark Alpha Capital and its CRM services."
+msgstr ""
 
 #. js-lingui-id: xCAT8U
 #: src/platform/releases/ReleaseNotes.tsx
@@ -6023,16 +6058,6 @@ msgstr "土库曼斯坦 🇹🇲"
 msgid "Tuvalu 🇹🇻"
 msgstr "图瓦卢 🇹🇻"
 
-#. js-lingui-id: O5dAmW
-#: src/platform/routing/static-website-routes.ts
-msgid "Twenty | #1 Open Source CRM"
-msgstr "Twenty | 全球排名第 1 的开源 CRM"
-
-#. js-lingui-id: XxKVz4
-#: src/platform/routing/static-website-routes.ts
-msgid "Twenty Apps — Vetted Apps for the Open Source CRM"
-msgstr ""
-
 #. js-lingui-id: jwNPEV
 #: src/sections/menu/data/menu.ts
 msgid "Twenty apps marketplace"
@@ -6061,21 +6086,6 @@ msgstr "将 Twenty 作为市场拓展技术栈的 API 支柱"
 #: src/case-studies/case-study-stories.ts
 msgid "Twenty as the API backbone of a go-to-market stack | Elevate Consulting"
 msgstr "将 Twenty 作为市场拓展技术栈的 API 支柱 | Elevate Consulting"
-
-#. js-lingui-id: neM1Ol
-#: src/platform/routing/static-website-routes.ts
-msgid "Twenty CRM Features — Modern Open Source CRM Platform"
-msgstr "Twenty CRM 功能 — 现代开源 CRM 平台"
-
-#. js-lingui-id: 8zCqPL
-#: src/platform/routing/static-website-routes.ts
-msgid "Twenty CRM Pricing — Plans from $9 per User per Month"
-msgstr "Twenty CRM 定价 — 每用户每月起价 9 美元的方案"
-
-#. js-lingui-id: D05UQH
-#: src/platform/routing/static-website-routes.ts
-msgid "Twenty Customers — How Modern Teams Run Their CRM"
-msgstr "Twenty 客户案例 — 现代团队如何运营他们的 CRM"
 
 #. js-lingui-id: MYHdd/
 #: src/case-studies/case-study-stories.ts
@@ -6128,22 +6138,12 @@ msgstr "Twenty 让一切变得简单。界面干净、直观，使用体验就�
 msgid "Twenty partner ecosystem"
 msgstr "Twenty 合作伙伴生态系统"
 
-#. js-lingui-id: 4SJucz
-#: src/platform/routing/static-website-routes.ts
-msgid "Twenty Partners — Certified Open Source CRM Implementers"
-msgstr "Twenty 合作伙伴 — 认证的开源 CRM 实施方"
-
 #. js-lingui-id: vD7S1X
 #. placeholder {0}: LATEST_RELEASE.release
 #. placeholder {1}: LATEST_RELEASE.title
 #: src/sections/menu/data/menu.ts
 msgid "Twenty release {0} — {1}"
 msgstr "Twenty 发布 {0} — {1}"
-
-#. js-lingui-id: X1GHuJ
-#: src/platform/routing/static-website-routes.ts
-msgid "Twenty Releases — What's New in the Open Source CRM"
-msgstr "Twenty 发布记录 — 这款开源 CRM 的最新动态"
 
 #. js-lingui-id: V1lV7B
 #: src/sections/pricing-plans/plans-data.ts
@@ -6670,6 +6670,11 @@ msgstr "目前 NetZero 仍在并行运行第二套 CRM，用于在巴西与农�
 msgid "Why"
 msgstr "为什么"
 
+#. js-lingui-id: M2cOY8
+#: src/platform/routing/static-website-routes.ts
+msgid "Why Dark Alpha Capital — The CRM Built to Be Customised"
+msgstr ""
+
 #. js-lingui-id: mrxgOV
 #: src/sections/menu/data/menu.ts
 msgid "Why teams choose Twenty"
@@ -6679,11 +6684,6 @@ msgstr ""
 #: src/sections/footer/footer.data.ts
 msgid "Why Twenty"
 msgstr "为什么选择 Twenty"
-
-#. js-lingui-id: DH7vVZ
-#: src/platform/routing/static-website-routes.ts
-msgid "Why Twenty — The Open Source CRM Built to Be Customised"
-msgstr "为什么选择 Twenty —— 为定制而生的开源 CRM"
 
 #. js-lingui-id: tetjz4
 #: src/sections/menu/data/menu.ts
